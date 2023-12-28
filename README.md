@@ -1,2 +1,3 @@
 # JS_project_3
 Basic java script projects...
+Its a local time project using HTML & JS..
